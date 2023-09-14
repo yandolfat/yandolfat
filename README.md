@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-👋 Hi, I’m @yandolfat, the minion of [vbesancon](https://github.com/vbesancon/)
+👋 Hi, I’m Yves, the minion of [Vincent](https://github.com/vbesancon/) !
 
 <!---
 yandolfat/yandolfat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
