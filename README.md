@@ -1,6 +1,8 @@
 ### Hello there 👋
 
-👋 Hi, I’m Yves, the minion of [Vincent](https://github.com/vbesancon/) !
+- 👋 I’m Yves, the minion of [Vincent](https://github.com/vbesancon/)!
+- 🔭 I’m currently working as Cloud & DevOps Engineer in France.
+- 🌱 I’m currently learning Kubernetes!
 
 <!---
 yandolfat/yandolfat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
